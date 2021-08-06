@@ -4,5 +4,5 @@ class User {
     //para obtener los campos del usuario
     var username : String = ""
 
-    var cryptoList : List<Crypto>? = null
+    var cryptosList : List<Crypto>? = null
 }
